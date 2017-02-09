@@ -1,0 +1,92 @@
+{
+  "settings": {
+    "name": "OACS Partner Reservation",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 1,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-0",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cw12-bg-cloud-day-inner-2000x1406.jpg",
+            "bgColor": "#2c82c9",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "green",
+            "thirdType": "blue",
+            "fourthType": "hidden",
+            "fifthType": "hidden"
+          },
+          "title1": "OACS v702 Demo Image",
+          "currency1": "Full OACS image<br>&nbsp;",
+          "price1": "",
+          "period1": "Full access to the &nbsp;OACS demo image. &nbsp;Use all OOB content or import your own. OACS, DV, Essbase, Spark, DxD<br>",
+          "list1": "<ul><li><b>4 processors/25gb ram</b></li><li><b>Public Access</b></li><li><b>support up to 4 conncurrent users</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:pete.monteiro@oracle.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request access</a>",
+          "title2": "OACS Essbase Service",
+          "currency2": "Essbase Cloud services&nbsp;",
+          "price2": "",
+          "period2": "Demo Essbase Cloud Services, build your own application via Oracle Smartivew",
+          "list2": "<ul><li><b>public URL provided</b></li><li><b>create your own Essbase app</b></li><li><b>Use local DVD to build vizualizations</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:pete.monteiro@oracle.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Access</a>",
+          "title3": "Day by Day&nbsp;",
+          "currency3": "Day by Day Mobile",
+          "price3": "",
+          "period3": "Demo DxD mobile applicaiton. &nbsp; Full access to the OACS pre index catalog. Download DxD here",
+          "list3": "<ul><li><b>public access</b></li><li><b>follow OOB demo script or create your own demo flow using existing content</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:pete.monteiro@oracle.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Access</a>",
+          "title4": "More info",
+          "currency4": "$",
+          "price4": "",
+          "period4": "per month",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_styles": {
+            "SUP": {
+              "font-size": "18px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
