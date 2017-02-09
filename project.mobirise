@@ -31,11 +31,11 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/cw12-bg-cloud-day-inner-2000x1406.jpg",
             "bgColor": "#2c82c9",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -43,9 +43,9 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "firstType": "default",
+            "firstType": "favorite",
             "showButtons": true,
-            "secondType": "green",
+            "secondType": "default",
             "thirdType": "blue",
             "fourthType": "hidden",
             "fifthType": "hidden"
@@ -62,7 +62,7 @@
           "period2": "Demo Essbase Cloud Services, build your own application via Oracle Smartivew",
           "list2": "<ul><li><b>public URL provided</b></li><li><b>create your own Essbase app</b></li><li><b>Use local DVD to build vizualizations</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"mailto:pete.monteiro@oracle.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Access</a>",
-          "title3": "Day by Day&nbsp;",
+          "title3": "OACS Day by Day&nbsp;",
           "currency3": "Day by Day Mobile",
           "price3": "",
           "period3": "Demo DxD mobile applicaiton. &nbsp; Full access to the OACS pre index catalog. Download DxD here",
@@ -82,7 +82,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
           "_styles": {
             "SUP": {
-              "font-size": "18px"
+              "font-size": "16px"
             }
           }
         }
