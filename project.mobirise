@@ -31,11 +31,11 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/cw12-bg-cloud-day-inner-2000x1406.jpg",
             "bgColor": "#2c82c9",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
