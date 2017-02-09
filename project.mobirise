@@ -45,11 +45,11 @@
           },
           "_anchor": "pricing-table1-0",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cw12-bg-cloud-day-inner-2000x1406.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/oacs-partner-1-2000x1406.jpg",
             "bgColor": "#2c82c9",
             "bgColorRadio": false,
             "bgVideo": {
