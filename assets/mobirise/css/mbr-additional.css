@@ -1,3 +1,14 @@
 #pricing-table1-0 SUP {
   font-size: 16px;
+  color: #4c6972;
+  text-align: center;
+}
+#pricing-table1-0 DIV {
+  text-align: center;
+}
+#pricing-table1-0 P {
+  text-align: right;
+}
+#pricing-table1-0 H3 {
+  color: #ffffff;
 }

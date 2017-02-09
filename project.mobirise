@@ -27,10 +27,26 @@
             "Theme"
           ],
           "_name": "pricing-table1",
+          "_styles": {
+            "SUP": {
+              "font-size": "16px",
+              "color": "#4c6972",
+              "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "right"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "pricing-table1-0",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/cw12-bg-cloud-day-inner-2000x1406.jpg",
@@ -46,12 +62,12 @@
             "firstType": "favorite",
             "showButtons": true,
             "secondType": "default",
-            "thirdType": "blue",
-            "fourthType": "hidden",
+            "thirdType": "default",
+            "fourthType": "default",
             "fifthType": "hidden"
           },
           "title1": "OACS v702 Demo Image",
-          "currency1": "Full OACS image<br>&nbsp;",
+          "currency1": "<p>Full OACS &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp;</p>",
           "price1": "",
           "period1": "Full access to the &nbsp;OACS demo image. &nbsp;Use all OOB content or import your own. OACS, DV, Essbase, Spark, DxD<br>",
           "list1": "<ul><li><b>4 processors/25gb ram</b></li><li><b>Public Access</b></li><li><b>support up to 4 conncurrent users</b></li></ul>",
@@ -68,23 +84,18 @@
           "period3": "Demo DxD mobile applicaiton. &nbsp; Full access to the OACS pre index catalog. Download DxD here",
           "list3": "<ul><li><b>public access</b></li><li><b>follow OOB demo script or create your own demo flow using existing content</b></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"mailto:pete.monteiro@oracle.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Access</a>",
-          "title4": "More info",
-          "currency4": "$",
+          "title4": "One day pass",
+          "currency4": "OACS URL&nbsp;",
           "price4": "",
-          "period4": "per month",
-          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "period4": "URL acces only for 24 hours, access to OACS and OACS Essbase, DxD<br><br>",
+          "list4": "<ul><li><b>public access</b></li><li><b>access to all demo content</b></li><li><b>single user env</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"mailto:pete.monteiro@oracle.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Request Access</a>",
           "title5": "EXTENDED",
           "currency5": "$",
           "price5": "0",
           "period5": "per month",
           "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "_styles": {
-            "SUP": {
-              "font-size": "16px"
-            }
-          }
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
         }
       ]
     }
